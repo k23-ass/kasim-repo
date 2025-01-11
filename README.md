@@ -1,4 +1,4 @@
 # kasim-repo
-this is for my practice.
+this is for my practice of how to do code.
 <br>
-mohammad kasim shaikh
+Mohammad Kasim Shaikh
